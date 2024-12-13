@@ -131,3 +131,9 @@
 ## Framework
 - NEXT.js, Gatsby, Remix
 
+
+## Option to create react app
+- Vite
+- Nextjs
+- Basic react
+- Remix
