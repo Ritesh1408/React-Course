@@ -12,7 +12,12 @@ function App() {
       setcounter(0)
       return
     }
-    setcounter(counter + 1)
+    // setcounter(counter + 1)
+    setcounter((prev) => prev + 1)
+    setcounter((prev) => prev + 1)
+    setcounter((prev) => prev + 1)
+    setcounter((prev) => prev + 1)
+
 
   }
 
